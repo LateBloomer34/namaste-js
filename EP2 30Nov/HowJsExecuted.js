@@ -55,3 +55,8 @@ after return statement the value store in main execution context , and the curre
 
 
 // whenever a new function is invoked a new execution contaxt is created 
+
+
+
+
+//      --- call stack maintain the order of execution 
