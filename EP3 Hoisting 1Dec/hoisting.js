@@ -96,6 +96,5 @@ getName();
 let fun = function name (){
     console.log("hello")
 }
-    //this function is also behave like a variable
-*/
-
+    */
+//this type of function is also behave like a variable
