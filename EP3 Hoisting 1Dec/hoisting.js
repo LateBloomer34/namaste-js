@@ -1,6 +1,13 @@
-// hoisting - access the variable and function even before initilization or put some value in it; doesnt matter where is it in the programe.
+/* hoisting -
 
-//call stack - control/ maintain the order of execution.
+variable and function declarations are moved to the top of their containing scope during the compilation phase, before the code is executed.
+
+access the variable and function even before initilization or put some value in it; doesnt matter where is it in the programe.
+*/
+
+
+
+//----call stack - control/ maintain the order of execution.
 
 /* hoistiong is the method  to access varibale and function before initilization, the js engine creates a execution context. in which there are two main component , memory allocation phase and code execution phase .
 
