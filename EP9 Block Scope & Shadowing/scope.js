@@ -31,7 +31,6 @@ let a = 15;
 {
     let a = 20; ///shadowing the value of a 
     console.log(a);
-    
 }
 */
 /* illegal shadowing - 
