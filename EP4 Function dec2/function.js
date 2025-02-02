@@ -18,7 +18,6 @@ function a(){
 function b(){
     let x = 7;
     console.log(x);
-    
 }
 console.log(x);
 
