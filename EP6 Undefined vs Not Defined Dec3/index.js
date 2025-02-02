@@ -18,7 +18,6 @@ let h = 6;
 
 
 
-
 /* imprtant operation with undefined - 
 type of undefined is undefined;
 undefined===undefined  => true;
