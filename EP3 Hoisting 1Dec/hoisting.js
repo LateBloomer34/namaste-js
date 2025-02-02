@@ -30,7 +30,6 @@ console.log(getName());
 //     hello
 
 
-
 // ex-2 
 /*
 console.log(getName());
