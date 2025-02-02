@@ -10,7 +10,6 @@ function a (){
     function c(){
     console.log(v); 
     }
-
 }
 
 c function is inside the function a ; 
