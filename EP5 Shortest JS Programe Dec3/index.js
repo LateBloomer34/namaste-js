@@ -13,7 +13,6 @@ what is global space - a varible which is not inside a function is global space.
 
 */
 
-
 var a = 5 ;
 function ab (){
     let a = 6;
