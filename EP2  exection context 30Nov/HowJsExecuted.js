@@ -7,7 +7,6 @@ var square2 = square(n);
 var square4 = square(4);
 
 /*
-
 step1 -  execurtion context created with memory phase ans code execution phase ;
 
 
