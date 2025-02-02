@@ -44,7 +44,6 @@ synchronous -  code execute line by line in a fixed manner.
 single threaded- one line executed at a time.*/
 
 
-
 /*parsing phase- 
 the parsing phase in done before the memory phase - in parsing phase code is broken down into token, and thses token convert into AST(abstract syntax tree);
 
