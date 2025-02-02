@@ -14,7 +14,6 @@
 refrence error - whne try to access value before initilize using let and cont;
 varibale is not defined ,and we try to access it.
 
-
 priority to use let var and const
 
 use const -  

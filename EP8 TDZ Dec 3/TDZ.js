@@ -12,7 +12,6 @@
     whenever we try to acccess varibale in TDZ - it wlll gives us a refrence error . can not access before initilization.
 
     
-
     types of error - 
     
     1- variable is not defined 
