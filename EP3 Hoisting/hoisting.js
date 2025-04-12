@@ -27,7 +27,8 @@ console.log(getName());
 */
 
 // op- 7
-//     hello
+//  hello
+//  undefined  ----undefined for conosle.log
 
 
 // ex-2 
@@ -41,7 +42,7 @@ function getName(){
 */
 // op - hello
 //      undefined
-     
+//     ReferenceError: Cannot access 'x' before initialization
 
 // ex- 3
 /*
