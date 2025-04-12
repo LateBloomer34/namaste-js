@@ -1,7 +1,7 @@
 /* hoisting -
 
-variable and function declarations are moved to the top of their containing scope during the compilation phase, before the code is 
-executed.
+variable and function declarations are moved to the top of their containing scope during the compilation phase, before the code 
+is executed.
 
 access the variable and function even before initilization or put some value in it; doesnt matter where is it in the programe.
 */
